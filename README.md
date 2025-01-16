@@ -50,3 +50,9 @@ These are stationary monsters on the map that players can attack to gain experie
 
     Health Potion
     Contains health points that heal the hero.
+**THINGS LEFT TO IMPLEMENT**
+
+    -Player combat & trade of items
+    -Testing to provide code coverage 
+    -Improvements on the Item distribution as well as Enemy distribution
+    -Improvements on the behavior of the items
